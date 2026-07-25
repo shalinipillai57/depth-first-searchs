@@ -90,6 +90,8 @@ F H <BR>
 
 <hr>
 <h3>Result:</h3>
+<img width="513" height="186" alt="image" src="https://github.com/user-attachments/assets/9ab4a174-39da-4255-a601-d2c505756130" />
+
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
